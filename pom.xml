@@ -27,7 +27,6 @@
 		<dependency>
     <groupId>com.h2database</groupId>
     <artifactId>h2</artifactId>
-    <scope>test</scope>
 </dependency>
 
 <dependency>
@@ -68,5 +67,6 @@
 
 	<modules>
 		<module>01_springdata</module>
-	</modules>
+    <module>02_springdata_lab</module>
+  </modules>
 </project>
